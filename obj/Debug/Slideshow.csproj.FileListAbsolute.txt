@@ -1,0 +1,39 @@
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.exe.config
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.pdb
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.csprojResolveAssemblyReference.cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.Form1.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.Cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.pdb
+E:\Ảnh\Slideshow\Slideshow\bin\Debug\Slideshow.exe.config
+E:\Ảnh\Slideshow\Slideshow\bin\Debug\Slideshow.exe
+E:\Ảnh\Slideshow\Slideshow\bin\Debug\Slideshow.pdb
+E:\Ảnh\Slideshow\Slideshow\obj\Debug\Slideshow.csprojAssemblyReference.cache
+E:\Ảnh\Slideshow\Slideshow\obj\Debug\Slideshow.Form1.resources
+E:\Ảnh\Slideshow\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+E:\Ảnh\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.cache
+E:\Ảnh\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.CoreCompileInputs.cache
+E:\Ảnh\Slideshow\Slideshow\obj\Debug\Slideshow.exe
+E:\Ảnh\Slideshow\Slideshow\obj\Debug\Slideshow.pdb
+D:\net\Slider-Image-.Net\bin\Debug\Slideshow.exe.config
+D:\net\Slider-Image-.Net\bin\Debug\Slideshow.exe
+D:\net\Slider-Image-.Net\bin\Debug\Slideshow.pdb
+D:\net\Slider-Image-.Net\obj\Debug\Slideshow.csprojAssemblyReference.cache
+D:\net\Slider-Image-.Net\obj\Debug\Slideshow.Form1.resources
+D:\net\Slider-Image-.Net\obj\Debug\Slideshow.Properties.Resources.resources
+D:\net\Slider-Image-.Net\obj\Debug\Slideshow.csproj.GenerateResource.cache
+D:\net\Slider-Image-.Net\obj\Debug\Slideshow.csproj.CoreCompileInputs.cache
+D:\net\Slider-Image-.Net\obj\Debug\Slideshow.exe
+D:\net\Slider-Image-.Net\obj\Debug\Slideshow.pdb
+D:\net\slide-show\bin\Debug\Slideshow.exe.config
+D:\net\slide-show\bin\Debug\Slideshow.exe
+D:\net\slide-show\bin\Debug\Slideshow.pdb
+D:\net\slide-show\obj\Debug\Slideshow.csprojAssemblyReference.cache
+D:\net\slide-show\obj\Debug\Slideshow.Form1.resources
+D:\net\slide-show\obj\Debug\Slideshow.Properties.Resources.resources
+D:\net\slide-show\obj\Debug\Slideshow.csproj.GenerateResource.cache
+D:\net\slide-show\obj\Debug\Slideshow.csproj.CoreCompileInputs.cache
+D:\net\slide-show\obj\Debug\Slideshow.exe
+D:\net\slide-show\obj\Debug\Slideshow.pdb
